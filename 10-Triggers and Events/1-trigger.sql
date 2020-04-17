@@ -1,3 +1,5 @@
+-- Trigger name format: table_timing_event
+
 DROP TRIGGER IF EXISTS payments_after_insert;
 
 DELIMITER $$
